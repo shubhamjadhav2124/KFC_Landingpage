@@ -1,0 +1,38 @@
+.productimg{
+
+    margin-left: 2px;
+    margin-top: 30px;
+   
+   
+
+
+    
+}
+
+.img1{
+    width: 125px;
+    height: 80px;
+
+
+}
+
+.productimg h4{
+    margin: 0px;
+    font-weight: 500;
+    margin-left: 25px;
+    font-size: 18PX;
+}
+.hover {
+    width: 0px;
+    height: 7px;
+    background-color: rgb(212, 4, 39);
+    margin-top: 10px;
+    
+}
+.productimg:hover .hover{
+    width:100% ;
+    transition: 0.5s;
+    border-radius: 4px;
+
+    
+}

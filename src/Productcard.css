@@ -1,0 +1,54 @@
+.productcar{
+    width: 350px;
+    height: 190px;
+    background-color:#ffffff;
+    margin-top: 30px;
+    margin-left: 25px;
+    border-radius: 10px;
+    display: flex;
+    
+    
+}
+.productcar:hover{
+    box-shadow: 0px 0px 10px 1px rgb(6, 6, 6);
+}
+.rightdiv{
+    width: 50%;
+
+
+}
+.rightdiv h2{
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 20px;
+    line-height: 25px;
+    font-weight: 600;
+
+}
+.rightdiv p{
+    font-size: 11px;
+    color: #3f3f3f;
+    margin-left: 20px;
+    font-weight: 600;
+    margin-top: -10px;
+    line-height: 15px;
+}
+.rightdiv h3{
+    font-size: 20px;
+    color: rgb(218, 9, 9);
+    margin-left: 20px;
+    margin-top: -7px;
+   
+}
+
+.rightdiv img{
+   
+   
+   
+}
+.leftdiv img {
+    width: 100%;
+    height: 100%;
+    
+    border-radius: 10px;
+}

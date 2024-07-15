@@ -1,0 +1,30 @@
+.cardso{
+    width: 300px;
+    height: 80px;
+    background-color: rgb(253, 252, 251);
+    display: flex;
+    border-radius: 10px;
+    margin-left: 20px;
+   
+
+}
+
+.lcard img{
+    width: 30px;
+    box-shadow: 5px 5px 5px rgb(77, 67, 151);
+    border-radius: 100px;
+}
+
+.rcard{
+    margin-left: 40px;
+}
+.rcard h3{
+    font-size: 18px;
+    margin-top: 2px;
+    font-weight: 500;
+}
+.rcard p{
+    font-size: 14px;
+    margin-top: -14px;
+    color: rgb(31, 27, 27);
+}
